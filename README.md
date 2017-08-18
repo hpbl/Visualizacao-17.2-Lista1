@@ -1,6 +1,6 @@
 # Visualização de Dados - Lista 1 (2017.2)
 
-Possível gabarito para a Lista 1 da disciplina de Visualização de Dados (2017.2) do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE)
+Possível gabarito para a [Lista 1](https://visualizacao-ufpe.github.io/data_vis_assignments/2017.2/lista1.html) da disciplina de Visualização de Dados (2017.2) do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE)
 
 
 ## Sobre a Disciplina

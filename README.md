@@ -24,5 +24,5 @@ Todas as respostas foram escritas em JavaScript utilizando a biblioteca de visua
 * **Nivan Ferreira** - *Professor* - [@visualizacao-ufpe](https://github.com/visualizacao-ufpe)
 * **Hilton Pintor** - *Monitor* - [@hpbl](https://github.com/hpbl)
 * **Renan Freitas** - *Monitor* - [@rfl3](https://github.com/rfl3)
-* **José Farias** - *Monitor* - [@RodolfoFarias](https://github.com/RodolfoFarias)
+* **Rodolfo Farias** - *Monitor* - [@RodolfoFarias](https://github.com/RodolfoFarias)
 

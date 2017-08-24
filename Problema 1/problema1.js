@@ -26,26 +26,22 @@ var y = d3.scaleLinear().domain([0,70]).range([height,0]);
 canvas.append('g')
             .attr('transform', 'translate(' + margin + ',' + parseInt(height+margin) + ')')
         .call(d3.axisBottom(x)
-                .ticks(8));
+                .ticks(8));                 // Define o nr de ticks
 canvas.append('g')
             .attr('class', 'yaxis')
             .attr('transform', 'translate(' + margin + ',' + margin + ')')
         .call(d3.axisLeft(y)
-                .ticks(8)
-                .tickSize(-width))
-        .append("text")
-            .attr("transform", "rotate(-90)")
-            .attr("y", 20)
-            .attr("dy", "1em")
-            .style("text-anchor", "middle")
-            .text("Coordenada Y");
+                .ticks(8)                   // Define o nr de ticks
+                .tickSize(-width))          // Faz os ticks terem o tamanho do canvas
 
+// Transforma os ticks em dashed e muda a cor
 d3.select('.yaxis').selectAll('.tick:not(:first-of-type)').select('line')
                     .attr('stroke', '#8BC34A')
                     .attr('stroke-dasharray', 3);
+// Deixa a linha "principal" transparente, comenta essa linha que da pra ver a diferenca
 d3.select('.yaxis').select('path').attr('stroke', 'none');
 
-// Inicia
+// Cria os primeiros circulos
 update();
 
 // Funcao para fazer update com os novos circulos

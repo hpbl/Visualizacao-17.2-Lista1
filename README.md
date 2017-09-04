@@ -1,6 +1,6 @@
 # Visualização de Dados - Lista 1 (2017.2)
 
-Possível gabarito para a [Lista 1](https://visualizacao-ufpe.github.io/data_vis_assignments/2017.2/lista2.html) da disciplina de Visualização de Dados (2017.2) do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE)
+Possível gabarito para a [Lista 1](https://visualizacao-ufpe.github.io/data_vis_assignments/2017.2/lista1.html) da disciplina de Visualização de Dados (2017.2) do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE)
 
 
 ## Sobre a Disciplina
@@ -12,7 +12,7 @@ O objetivo da disciplina é introduzir os princípios e técnicas básicas de vi
 
 ## Sobre o Repositório
 
-Este repositório foi criado com o intuito de divulgar para os alunos da turma de 2017.2, um possível gabarito para os problemas da [Lista 2](https://visualizacao-ufpe.github.io/data_vis_assignments/2017.2/lista2.html).
+Este repositório foi criado com o intuito de divulgar para os alunos da turma de 2017.2, um possível gabarito para os problemas da [Lista 1](https://visualizacao-ufpe.github.io/data_vis_assignments/2017.2/lista1.html).
 
 Podem existir diferentes maneiras de resolver os problemas propostos na lista de exercício, as que foram utilizadas nesse repositório devem servir de referência para os alunos da disciplina.
 
